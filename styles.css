@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;1,100;1,200&display=swap');
+code{
+    padding : 5px 5px 5px 5px;
+    font-size : 20px;
+    color : white;
+    background-color : transparent;
+}
+[data-testid="stAppViewContainer"]{
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to right, #f9d423 0%, #ff4e50 100%);
+}
+footer{
+    visibility: hidden;
+}
+[data-testid="stHeader"]{
+    color : white;
+    background: linear-gradient(to right, #f9d423 0%, #ff4e50 100%);
+}
+[data-testid="stMainMenu"]{
+    visibility: hidden;
+}
+[data-testid="stToolbar"]{
+    font-family: 'Montserrat', sans-serif;
+    font-size : 15px;
+}
+[data-testid="stDecoration"]{
+    visibility: hidden;
+}
+
+#sarcasm-detection-using-tensorflow{
+    font-family: 'Montserrat', sans-serif;
+    color : white;
+    text-align: center;
+}
+#enter-your-sentence{
+    font-family: 'Montserrat', sans-serif;
+    color : white;
+
+}
+
+#is-it-sarcastic{
+    font-family: 'Montserrat', sans-serif;
+    color : white;
+
+}
+[data-testid="stMarkdown"]{
+    font-family: 'Montserrat', sans-serif;
+    color : white;
+    font-size : 20px;
+}
